@@ -67,7 +67,7 @@ const metrics: MetricCardProps[][] = [
         { date: 'March 11, 2026', icon: Thermometer, label: "Temperature", value: "98.1°F" },
     ]
 
-][2];
+][3];
 
 const Index = () => (
     <div className="min-h-screen bg-background">
