@@ -17,27 +17,27 @@ const metrics: MetricCardProps[][] = [
 
     // 2019-01-12
     [
-        { date: 'January 01, 2019', icon: Droplets, label: "Cholesterol", value: "104" },
-        { date: 'January 01, 2019', icon: Gauge, label: "Blood Pressure", value: "135/89" },
-        { date: 'January 01, 2019', icon: HeartPulse, label: "Pulse", value: "83 bpm" },
-        { date: 'January 01, 2019', icon: Thermometer, label: "Temperature", value: "99.1°F" },
+        { date: 'January 12, 2019', icon: Droplets, label: "Cholesterol", value: "104" },
+        { date: 'January 12, 2019', icon: Gauge, label: "Blood Pressure", value: "135/89" },
+        { date: 'January 12, 2019', icon: HeartPulse, label: "Pulse", value: "83 bpm" },
+        { date: 'January 12, 2019', icon: Thermometer, label: "Temperature", value: "99.1°F" },
     ],
 
     // 2020-02-17
     [
-        { date: 'Feburary 02, 2026', icon: Droplets, label: "Cholesterol", value: "112" },
-        { date: 'Feburary 02, 2026', icon: Activity, label: "Iron Count", value: "15.4" },
-        { date: 'Feburary 02, 2026', icon: Gauge, label: "Blood Pressure", value: "138/85" },
-        { date: 'Feburary 02, 2026', icon: HeartPulse, label: "Pulse", value: "63 bpm" },
-        { date: 'Feburary 02, 2026', icon: Thermometer, label: "Temperature", value: "99.2°F" },
+        { date: 'Feburary 17, 2026', icon: Droplets, label: "Cholesterol", value: "112" },
+        { date: 'Feburary 17, 2026', icon: Activity, label: "Iron Count", value: "15.4" },
+        { date: 'Feburary 17, 2026', icon: Gauge, label: "Blood Pressure", value: "138/85" },
+        { date: 'Feburary 17, 2026', icon: HeartPulse, label: "Pulse", value: "63 bpm" },
+        { date: 'Feburary 17, 2026', icon: Thermometer, label: "Temperature", value: "99.2°F" },
     ],
 
     // 2025-02-01
     [
-        { date: 'Feburary 02, 2025', icon: Activity, label: "Iron Count", value: "11.3" },
-        { date: 'Feburary 02, 2025', icon: Gauge, label: "Blood Pressure", value: "121/82" },
-        { date: 'Feburary 02, 2025', icon: HeartPulse, label: "Pulse", value: "58 bpm" },
-        { date: 'Feburary 02, 2025', icon: Thermometer, label: "Temperature", value: "97.6°F" },
+        { date: 'Feburary 01, 2025', icon: Activity, label: "Iron Count", value: "11.3" },
+        { date: 'Feburary 01, 2025', icon: Gauge, label: "Blood Pressure", value: "121/82" },
+        { date: 'Feburary 01, 2025', icon: HeartPulse, label: "Pulse", value: "58 bpm" },
+        { date: 'Feburary 01, 2025', icon: Thermometer, label: "Temperature", value: "97.6°F" },
     ],
 
     // 2025-09-20
